@@ -1,3 +1,5 @@
 ### hyphenc
 
-An index of what I've done: [portfolio](https://hyphenc.github.io/)
+Hello 👋
+
+An index of what I've done/made/coded: [portfolio](https://hyphenc.github.io/)
