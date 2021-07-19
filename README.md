@@ -2,4 +2,4 @@
 
 Hello 👋
 
-An index of some of what I've done/made/coded: [nunq.net/code](https://nunq.net/code) (last updated: 16-02-2021)
+A list of some of the things I made: [nunq.net/code](https://nunq.net/code) (last updated: 19-07-2021)
