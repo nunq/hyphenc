@@ -1,5 +1,5 @@
 ### hyphenc
 
-Hello 👋
+hello 👋
 
-A list of some of the things I made: [nunq.net/code](https://nunq.net/code) (last updated: 19-07-2021)
+a list of some of the things i made: [nunq.net/projects](https://nunq.net/projects) (last updated: 02-04-2022)
